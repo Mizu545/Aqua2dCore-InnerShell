@@ -1,2 +1,2 @@
 # Aqua2dCore-InnerShell
-  This repo is designed to work with the Frameworks of non-Dlang SDKs for Aqua2D. For compatibility reasons, this repo with be written in C and      MANY layers.
+  This repo is designed to work with the Frameworks of non-Dlang SDKs for Aqua2D. For compatibility reasons, this repo with be written in C and have MANY layers.
